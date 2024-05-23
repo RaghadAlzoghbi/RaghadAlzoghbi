@@ -1,6 +1,6 @@
 # Hi there, I'm Raghad! 👋
 
-![Profile Banner](https://your-link-to-banner-image)
+![Profile Banner](https://raw.githubusercontent.com/RaghadAlzoghbi/RaghadAlzoghbi/57463a82e98ccd3244a85df3c1c5f8565efb09d2/caption.jpg)
 
 ## About Me
 I'm a software engineering student specializing in data science. I have a passion for developing projects and exploring the intersection of data and technology. Currently, I'm focused on honing my skills in data science and working on my graduation project, which focuses on managing graduation projects for the university.
